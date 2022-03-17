@@ -54,3 +54,7 @@ img {
 	color: var(--grayish-blue);
 	text-align: center;
 }
+
+.attribution > p {
+	text-align: center;
+}
