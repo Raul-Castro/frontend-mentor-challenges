@@ -21,15 +21,15 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Desktop screenshot
 
-![](./design/Screenshot-desktop-QR-code-component%20.png)
+![](./design/Desktop-Screenshot_qr-code-component.png)
 
 ### Mobile screenshot
 
-![](./design/Screenshot-mobile-QR-code-component%20.png)
+![](./design/Mobile-Screenshot_qr-code-component.jpeg)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Raul-Castro/frontend-mentor-challenges/tree/main/qr-code-component)
+- Solution URL: [Github](https://github.com/raul-castro/frontend-mentor-challenges/tree/main/qr-code-component)
 - Live Site URL: [Github Pages](https://raul-castro.github.io/frontend-mentor-challenges/qr-code-component/)
 
 ## My process
@@ -44,7 +44,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-Thanks to this challenge I've learned more about semantic HTML5 tags, to use CSS BEM(Block, Element, Modifier) name convention for the classes and last but not least a better git-github workflow also regarding posting this challenge. And finally a little approach of deploying in Vercel
+Thanks to this challenge I've learned more about semantic HTML5 tags, to use CSS BEM(Block, Element, Modifier) name convention for the classes and last but not least a better git-github workflow also regarding posting this challenge. And finally a little approach of deploying on Github pages
 
 😅 Here is the arcane on how to center a div
 
@@ -65,4 +65,4 @@ For the moment i want to focus more on the basics and when I'll gain more confid
 
 ## Author
 
-- Github - [Raul-Castro](https://github.com/Raul-Castro)
+- Github - [raul-castro](https://github.com/raul-castro)
