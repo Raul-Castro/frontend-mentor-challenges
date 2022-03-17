@@ -21,11 +21,11 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Desktop screenshot
 
-![](./design/Desktop-Screenshot_qr-code-component.png)
+![](./design/Desktop-screenshot_qr-component.png)
 
 ### Mobile screenshot
 
-![](./design/Mobile-Screenshot_qr-code-component.jpeg)
+![](./design/Mobile-screenshot_qr-component.jpeg)
 
 ### Links
 
@@ -61,7 +61,8 @@ For the moment i want to focus more on the basics and when I'll gain more confid
 
 ### Useful resources
 
-- [BEM101](https://css-tricks.com/bem-101/) - This helped me to have a 'pattern' to follow when I name the classes in html and to give more sense to my css
+- [BEM101](https://css-tricks.com/bem-101/) : This helped me to have a 'pattern' to follow when I name the classes in html and to give more sense to my css
+- [GithubDocs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): This is about deploying on github pages
 
 ## Author
 
